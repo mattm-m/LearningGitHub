@@ -1,6 +1,7 @@
 # LearningGitHub
 This repo is to help students learn the basics of GitHub
 
+Matthew - 02/06/2023 Winter Term
 Toby - 02/02/2023
 Class of 2023
 Aaron Escude - 02/02/2023
@@ -20,5 +21,4 @@ Skylar Arce - 02/06/2023 Winter Term, 2023
 Basheer Maalouf - 2/06/2023 
 Winter Term, 2023
 Mateo - 02/06/23 Winter Term, 2023
-Gabriel - 02/06/2023 
 
